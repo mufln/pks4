@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mufln/si-sharp-tutorials/tetrad/pks4/pks4.csproj": {}
+  },
+  "projects": {
+    "/Users/mufln/si-sharp-tutorials/tetrad/pks4/pks4.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mufln/si-sharp-tutorials/tetrad/pks4/pks4.csproj",
+        "projectName": "pks4",
+        "projectPath": "/Users/mufln/si-sharp-tutorials/tetrad/pks4/pks4.csproj",
+        "packagesPath": "/Users/mufln/.nuget/packages/",
+        "outputPath": "/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/mufln/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/mufln/.dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

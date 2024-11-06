@@ -1,0 +1,14 @@
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/bin/Debug/net8.0/pks4
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/bin/Debug/net8.0/pks4.deps.json
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/bin/Debug/net8.0/pks4.runtimeconfig.json
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/bin/Debug/net8.0/pks4.dll
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/bin/Debug/net8.0/pks4.pdb
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.AssemblyInfoInputs.cache
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.AssemblyInfo.cs
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.csproj.CoreCompileInputs.cache
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.dll
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/refint/pks4.dll
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.pdb
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/pks4.genruntimeconfig.cache
+/Users/mufln/si-sharp-tutorials/tetrad/pks4/obj/Debug/net8.0/ref/pks4.dll
